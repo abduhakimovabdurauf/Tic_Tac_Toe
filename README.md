@@ -7,6 +7,10 @@ Tic Tac Toe is a classic game played between two players. This project implement
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+- 
+## Demo
+
+https://abduhakimovabdurauf.github.io/Tic_Tac_Toe/
 
 ## Installation
 
@@ -15,6 +19,4 @@ Download or clone the project files:
    git clone https://github.com/abduhakimovabdurauf/Tic_Tac_Toe.git
 
 
-## Demo
 
-https://abduhakimovabdurauf.github.io/Tic_Tac_Toe/
