@@ -10,6 +10,11 @@ Tic Tac Toe is a classic game played between two players. This project implement
 
 ## Installation
 
-1. Download or clone the project files:
+Download or clone the project files:
    ```bash
    git clone https://github.com/abduhakimovabdurauf/Tic_Tac_Toe.git
+
+
+## Demo
+
+https://abduhakimovabdurauf.github.io/Tic_Tac_Toe/
